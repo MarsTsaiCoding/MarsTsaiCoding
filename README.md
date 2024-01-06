@@ -2,7 +2,7 @@
 Full Stack Engineer 8 Years Of Experience 
 
 ## ⚡Front End:  
-Vue ,Angular.React Typescript. Video streaming technology. Good at MVVM Architecture practice optimization architecture design component design
+Vue,Angular,React Typescript. Video streaming technology. Good at MVVM Architecture practice optimization architecture design component design
 
 ## ⚡Back End: 
 Good at OOP and DDD design pattern Clean architecture , back end proficient in Asp.net mvc , net core , Web api three-Tier , DDD architecture practice, Sql server , Nosql-mongodb , Redis , Firebase ex: Entity framework ORM LINQ Lambda,DI(Dependency Injection) , DTO , MVC , SignalR , AOP track and record log exception..etc。 
