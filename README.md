@@ -15,7 +15,7 @@ I am passionate about learning new technologies and helping others in software d
 
 - 🔭 [CV](https://onedrive.live.com/view.aspx?resid=68D50E6AFE9A0E41!312&ithint=file%2cdocx&wdo=2&authkey=!AGpBmQz4Pw2YG3w)
 - 🌱 [Blogger](https://aspnetmars.blogspot.com/)
-- 📫 [Linkedin](https://www.linkedin.com/in/mars-tsai-278305118/)
+- 📫 [Linkedin](https://www.linkedin.com/in/marstsaiforjob/)
 - 🤔 [Side Project Demo](https://drive.google.com/drive/folders/1EmlM6FLIWd1xTqXD_etSaX7S8v9MwDHX?usp=sharing)
 
 
