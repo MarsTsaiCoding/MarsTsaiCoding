@@ -11,7 +11,8 @@ Full Stack Engineer 8 Years Of Experience
 ・Skilled in high-concurrency system design and low-latency optimization
 
 ## ⚡Application:  
-Winform for game flow , and Develop some tools for internal use I have experience in mobile development using like flutter or native vue, development side projects. some deep learning and image recognition experience Using YOLO deep learning to develop image recognition for work content Some experience with web crawling, using Selenium to extract data or for testing 
+・Winform for game flow , and Develop some tools for internal use I have experience in mobile development using like flutter or native vue, development side projects. 
+・experience with web crawling, using Selenium to extract data or for testing 
 
 ## 🧠 AI & Computer Vision
 ・Hands-on experience in training and deploying AI models
