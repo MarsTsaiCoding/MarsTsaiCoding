@@ -2,13 +2,25 @@
 Full Stack Engineer 8 Years Of Experience 
 
 ## ⚡Front End:  
-Vue,Angular,React Typescript. Video streaming technology. Good at MVVM Architecture practice optimization architecture design component design
+・Expert in Vue.js, React.js, and Angular
+・Strong in MVVM architecture, state management, component, and performance tuning
 
-## ⚡Back End: 
-Good at OOP and DDD design pattern Clean architecture , back end proficient in Asp.net mvc , net core , Web api three-Tier , DDD architecture practice, Sql server , Nosql-mongodb , Redis , Firebase ex: Entity framework ORM LINQ Lambda,DI(Dependency Injection) , DTO , MVC , SignalR , AOP track and record log exception..etc。 
+## ⚡Back End & Architecture : 
+・Experienced in Domain-Driven Design (DDD) and three-tier architecture
+・Proficient in designing distributed, high-availability systems
+・Skilled in high-concurrency system design and low-latency optimization
 
 ## ⚡Application:  
 Winform for game flow , and Develop some tools for internal use I have experience in mobile development using like flutter or native vue, development side projects. some deep learning and image recognition experience Using YOLO deep learning to develop image recognition for work content Some experience with web crawling, using Selenium to extract data or for testing 
+
+## 🧠 AI & Computer Vision
+・Hands-on experience in training and deploying AI models
+・Practical use of YOLO and image recognition models in real-time systems
+
+## 🧩 Projects & Impact
+・Architected systems handling 10K+ QPS
+・Led re-architecture and scaling initiatives across product lifecycles
+・Effective communicator between tech and business teams
 
 ## ⚡Summarize:  
 I am passionate about learning new technologies and helping others in software development. I regularly attend online or offline technical events, and I also write side projects that I'm interested in. Currently, I'm focusing on strengthening my knowledge of DevOps, containers, Docker, and Kubernetes in order to build a highly reliable, load-balanced, and scalable system architecture.
